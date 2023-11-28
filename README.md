@@ -1,2 +1,8 @@
 # Session18AIForms
- Submission for session 18 of the forums for Artificial Intelligence class.
+ Submission for session 18 of the forums for Artificial Intelligence class. For class L5BC
+
+AVARIQ FAZLUR RAHMAN - 2502043002
+BAYU HARTHO - 2502013731
+BERNARD CHOA - 2502022414
+SANDRIAN GIBRAN WARDANA - 2502016411
+SULTHAN SYUZA PRABOWO - 2502020075
